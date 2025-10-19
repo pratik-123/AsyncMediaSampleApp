@@ -33,3 +33,4 @@ git clone https://github.com/pratik-123/AsyncMediaSampleApp.git
 
 [Pratik-123](https://github.com/pratik-123)
 
+![alt tag](https://github.com/pratik-123/AsyncMediaSampleApp/blob/main/ScreenShot.png)
